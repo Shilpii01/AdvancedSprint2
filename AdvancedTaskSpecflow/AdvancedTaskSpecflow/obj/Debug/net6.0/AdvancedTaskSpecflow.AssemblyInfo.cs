@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedTaskSpecflow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ea3aa8216c84661dbd6eacb5dce617d07da748f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedTaskSpecflow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedTaskSpecflow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
